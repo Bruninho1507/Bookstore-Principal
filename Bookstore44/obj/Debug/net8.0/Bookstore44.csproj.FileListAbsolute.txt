@@ -1,0 +1,9 @@
+C:\Users\bruno.silva38\source\repos\Bookstore44\Bookstore44\obj\Debug\net8.0\Bookstore44.csproj.AssemblyReference.cache
+C:\Users\bruno.silva38\source\repos\Bookstore44\Bookstore44\obj\Debug\net8.0\Bookstore44.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno.silva38\source\repos\Bookstore44\Bookstore44\obj\Debug\net8.0\Bookstore44.AssemblyInfoInputs.cache
+C:\Users\bruno.silva38\source\repos\Bookstore44\Bookstore44\obj\Debug\net8.0\Bookstore44.AssemblyInfo.cs
+C:\Users\bruno.silva38\source\repos\Bookstore44\Bookstore44\obj\Debug\net8.0\Bookstore44.csproj.CoreCompileInputs.cache
+C:\Users\bruno.silva38\source\repos\Bookstore44\Bookstore44\obj\Debug\net8.0\Bookstore44.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bruno.silva38\source\repos\Bookstore44\Bookstore44\obj\Debug\net8.0\Bookstore44.RazorAssemblyInfo.cache
+C:\Users\bruno.silva38\source\repos\Bookstore44\Bookstore44\obj\Debug\net8.0\Bookstore44.RazorAssemblyInfo.cs
+C:\Users\bruno.silva38\source\repos\Bookstore44\Bookstore44\obj\Debug\net8.0\Bookstore44.sourcelink.json
